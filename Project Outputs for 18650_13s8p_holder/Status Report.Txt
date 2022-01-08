@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [18650_13s8p_holder.PrjPCB]
+   Generated File[18650_13s8p.TXT]
+   Generated File[18650_13s8p.LDP]
+   Generated File[18650_13s8p.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 17:37:58 On 2022-01-08

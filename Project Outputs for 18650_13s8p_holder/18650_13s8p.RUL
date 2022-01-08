@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: C:\Users\Vytautas\Desktop\ElektronikosPCB\18650_48V_13s8p_holder\18650_13s8p.PcbDoc
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=11.81
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=19.69
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
